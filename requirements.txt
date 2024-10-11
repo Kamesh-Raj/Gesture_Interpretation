@@ -1,0 +1,8 @@
+flask
+opencv-python
+mediapipe
+numpy
+tensorflow
+googletrans==4.0.0-rc1
+nltk
+matplotlib
